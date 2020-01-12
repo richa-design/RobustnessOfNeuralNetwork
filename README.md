@@ -1,4 +1,4 @@
-# RobustnessOfNeuralNetwork
+# Robustness Of Neural Networks
 
 Team Members:
 1. Richa Singh (University ID: 906252623)
